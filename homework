@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <style>
+            img {
+            width: 100%;
+            }
+            
+            table, th, td {
+  			border: 3px solid black;
+            border-collapse: collapse;
+			}
+	</style>
+	<title>Homework</title>
+	</head>
+    <body>
+    	<header>
+        <h1> Why are you here? </h1>
+    	</header>
+
+	<p>You are in the wrong place. Please leave.</p>
+
+        <img src="https://pics.me.me/thumb_if-you-zoom-in-youll-see-a-clown-zoom-is-63536716.png" alt="some nonsense picture">
+
+        <table style="width:100%">
+            <tr>
+              <th>Reason</th>
+              <th>What you have to do</th>
+            </tr>
+            <tr>
+              <td>I am lost</td>
+              <td><a href="https://www.ttu.ee/tudengile/noustamine/psuhholoogiline-noustamine/">You can get help here.</a></td>
+            </tr>
+            <tr>
+              <td>I am supposed to be here</td>
+              <td>Nope, you are not. You are free to go.</td>
+            </tr>
+        </table>
+    	
+	<footer>
+      	<p>In case you need to contact me, please do not: 192868.</p>
+    	</footer>
+    </body>
+</html>
